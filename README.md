@@ -1,0 +1,1 @@
+# graphql-shopify-database-api
